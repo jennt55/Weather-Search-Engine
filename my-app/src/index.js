@@ -15,7 +15,7 @@ root.render(
     </div>
     <p className="footer">
       <a
-        href="https://github.com/jennt55/react-weather-app-wk4"
+        href="https://github.com/jennt55/Weather-Search-Engine"
         target="_blank"
         rel="noreferrer"
       >
